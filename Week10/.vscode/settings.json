@@ -1,0 +1,27 @@
+{
+  "files.associations": {
+    "algorithm": "cpp",
+    "cctype": "cpp",
+    "compare": "cpp",
+    "cstdint": "cpp",
+    "cstdlib": "cpp",
+    "deque": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp",
+    "istream": "cpp",
+    "map": "cpp",
+    "optional": "cpp",
+    "ostream": "cpp",
+    "ranges": "cpp",
+    "set": "cpp",
+    "stack": "cpp",
+    "string": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "vector": "cpp",
+    "xmemory": "cpp",
+    "xstring": "cpp",
+    "xtree": "cpp"
+  }
+}
