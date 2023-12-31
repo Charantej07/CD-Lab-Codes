@@ -1,4 +1,0 @@
-Hello world,
-Welcome to Compiler desing lab
-This is a input file to
-identify the number fo characters, words and lines in a text file program
